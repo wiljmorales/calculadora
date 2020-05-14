@@ -1,0 +1,6 @@
+por hacer:
+-hacer la parte grafica con css
+y mejorar el html
+-programar los botones para que 
+registre los numeros y los signos 
+matematicos
